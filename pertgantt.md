@@ -68,5 +68,7 @@ Tout changement dans l’un doit être cohérent avec les autres.
 
 ## 6. Exemple de Gantt
 
+Le lien pour télécharger le logiciel : https://www.ganttproject.biz/
+
 <img src="images/ganttex.jpg">
 
