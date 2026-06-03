@@ -102,3 +102,7 @@ Un WBS peut être incorrect s’il :
 - mélange le « quoi » et le « comment »,
 - oublie une partie du périmètre,
 - contient des tâches qui se chevauchent.
+
+## 8. Exemple de rendu d'un WBS
+
+<img src="./images/wbs-ex.webp.jpg">
