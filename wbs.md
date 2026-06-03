@@ -105,4 +105,4 @@ Un WBS peut être incorrect s’il :
 
 ## 8. Exemple de rendu d'un WBS
 
-<img src="./images/wbs-ex.webp.jpg">
+<img src="./images/wbs-ex.webp">
