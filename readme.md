@@ -4,17 +4,39 @@
 
 ## Groupes
 
-> TODO
-
 Groupe 1 : 
-- 
+- Mathis
+- Gabin
 
 Groupe 2 : 
-- 
+- Grégoire
+- Elias
 
 Groupe 3 : 
-- 
+- Jean Claude
+- Aurele
 
+Groupe 4 : 
+- Zoé
+- Lucas
+
+groupe 5 :
+- Tigane
+- Mael
+- Alban
+
+groupe 6 :
+- Thomas
+- Léo
+
+groupe 7 :
+- Jonathan
+- Ludivine
+
+groupe 8 :
+- Mathéo
+- Florian
+- Mathias
 
 ---
 
