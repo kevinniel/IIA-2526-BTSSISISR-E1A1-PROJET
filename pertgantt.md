@@ -65,3 +65,8 @@ Un projet cohérent respecte la logique suivante :
 3. Gantt → planifie dans le temps
 
 Tout changement dans l’un doit être cohérent avec les autres.
+
+## 6. Exemple de Gantt
+
+<img src="images/ganttex.jpg">
+
